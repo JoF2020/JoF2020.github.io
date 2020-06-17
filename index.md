@@ -14,4 +14,4 @@ Lieblingszitat:
 > Da fällt mir jetzt gerade nichts ein
 
 
-![Charlotte Ritter](https://www.daserste.de/unterhaltung/serie/babylon-berlin/darsteller/liv-lisa-fries-als-charlotte-ritter-104~_v-varl_a4c83c.jpg)
+<img src="https://www.daserste.de/unterhaltung/serie/babylon-berlin/darsteller/liv-lisa-fries-als-charlotte-ritter-104~_v-varl_a4c83c.jpg" />

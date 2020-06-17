@@ -10,3 +10,7 @@ Charlotte ist eine der Hauptfiguren in Babylon Berlin. Sie stammt aus ärmlichen
 * hilfsbereit
 * tut alles für ihre Schwestern und ihre Freundin
 
+Lieblingszitat:
+> Da fällt mir jetzt gerade nichts ein
+
+

@@ -14,4 +14,4 @@ Lieblingszitat:
 > Da fällt mir jetzt gerade nichts ein
 
 
-![Charlotte Ritter](https://images.app.goo.gl/sSFXxMsrzcKEsUZd8)
+![Charlotte Ritter](bild.jpg)
